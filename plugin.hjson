@@ -1,0 +1,7 @@
+name: fishplugin
+author: buthed010203
+description: "Plugin with various utilities for the fish network."
+main: fish.FishPlugin
+version: 1
+minGameVersion: 140
+hidden: true
